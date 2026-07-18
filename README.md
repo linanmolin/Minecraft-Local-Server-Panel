@@ -1,5 +1,5 @@
 ```markdown
-# 🎮 MC Panel v5.9 — Minecraft 服务器远程网页控制面板
+# 🎮 MC Panel v5.9 — Minecraft 服务器远程网页控制面板 （仅限局域网，除非你具备IPV6或者公网IP）
 
 **语言 / Language**：本面板完整支持 **中文 (zh-CN)** 界面。本文档同时提供 [English version](#english-version) below.
 
@@ -130,7 +130,7 @@ MIT License · 仅供学习与非商业用途
 
 # English Version
 
-## 🎮 MC Panel v5.9 — Minecraft Server Web Control Panel
+## 🎮 MC Panel v5.9 — Minecraft Server Web Control Panel (LAN only, unless you have IPv6 or a public IP)
 
 **Language**: The panel UI is fully in **Chinese (zh-CN)**. The English mirror of this README is provided below.
 
