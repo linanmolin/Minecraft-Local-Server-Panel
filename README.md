@@ -68,7 +68,7 @@ http://127.0.0.1:8080
 
 ```
 你的文件夹/
-├── Server zh-cn.py
+├── Server zh-cn/En-en.py
 ├── Java/
 │   ├── jdk-17.0.10/
 │   └── jdk-21.0.5/
