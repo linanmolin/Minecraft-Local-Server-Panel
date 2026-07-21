@@ -199,7 +199,7 @@ Create a `Java/` folder next to the script and drop extracted JDK builds inside:
 
 ```
 Your Folder/
-├── Server zh-cn.py
+├── Server En-en.py
 ├── Java/
 │   ├── jdk-17.0.10/
 │   └── jdk-21.0.5/
